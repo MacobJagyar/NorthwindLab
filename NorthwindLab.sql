@@ -2,9 +2,6 @@
 SELECT *
 FROM Customers
 
-SELECT *
-FROM Orders
-
 --2
 SELECT DISTINCT Country
 FROM Customers
